@@ -1,0 +1,128 @@
+--- РЕЗУЛЬТАТ ПЕРЕВОДА ---
+
+ИСХОДНЫЙ ТЕКСТ (АНГЛИЙСКИЙ):
+When art is made new, we are made new with it. We have a sense of solidarity with our own time, and of psychic energies shared and redoubled, which is just about the most satisfying thing that life has to offer. 'If that is possible,' we say to ourselves, 'then everything is possible'; a new phase in the history of human awareness has been opened up, just as it opened up when people first read Dante, or first heard Bach's 48 preludes and fugues, or first learned from Hamlet and King Lear(/I> that the complexities and contradictions of human nature could be spelled out on the stage.
+
+This being so, it is a great exasperation to come face to face with new art and not make anything of it. Stared down by something that we don't like, don't understand and can't believe in, we feel personally affronted, as if our identity as reasonably alert and responsive human beings had been called into question. We ought to be having a good time, and we aren't. More than that, an important part of life is being withheld from us; for if any one thing is certain in this world it is that art is there to help us live, and for no other reason.
+
+ПЕРЕВЕДЕННЫЙ ТЕКСТ (НЕМЕЦКИЙ):
+Wenn Kunst neu gemacht wird, werden wir damit neu. Wir haben ein Gefühl der Solidarität mit unserer eigenen Zeit und der geteilten und verdoppelten psychischen Energien, die gerade das befriedigendste ist, was das Leben zu bieten hat. 'Wenn das möglich ist', sagen wir uns selbst, 'dann ist alles möglich'; eine neue Phase in der Geschichte des menschlichen Bewusstseins wurde eröffnet, so wie es sich öffnete, als die Menschen zuerst Dante lasen, oder die 48 Präludien und Fugen Bachs zuerst hörten, oder zuerst von Hamlet und König Lear erfuhren (/I> dass die Komplexität und Widersprüche der menschlichen Natur auf der Bühne ausgeschrieben werden konnten. Dies ist so, dass es eine große Verzweiflung ist, mit neuer Kunst konfrontiert zu werden und nichts daraus zu machen. Gestarrt von etwas, das wir nicht mögen, verstehen und nicht glauben können, fühlen wir uns persönlich angegriffen, als ob unsere Identität als vernünftig wachsam und reaktionsfähige Menschen in Frage gestellt worden wäre.
+
+--- ЧАСТОТНЫЙ СПИСОК СЛОВ ---
+
+Слово                | Частота    | Часть речи      | Перевод
+----------------------------------------------------------------------
+be                   | 17         | AUX             | werden
+and                  | 10         | CCONJ           | und
+we                   | 9          | PRON            | wir
+of                   | 6          | ADP             | von
+that                 | 6          | PRON            | das
+to                   | 6          | PART            | zu
+it                   | 5          | PRON            | es
+have                 | 5          | VERB            | haben
+new                  | 4          | ADJ             | neu
+a                    | 4          | DET             | a
+the                  | 4          | DET             | die
+art                  | 3          | NOUN            | Kunst
+make                 | 3          | VERB            | machen
+with                 | 3          | ADP             | mit
+if                   | 3          | SCONJ           | wenn
+in                   | 3          | ADP             | in der
+human                | 3          | ADJ             | menschlich
+as                   | 3          | SCONJ           | als
+first                | 3          | ADV             | zuerst
+when                 | 2          | SCONJ           | wenn
+our                  | 2          | PRON            | unsere
+time                 | 2          | NOUN            | Zeit
+just                 | 2          | ADV             | nur
+thing                | 2          | NOUN            | Sache
+life                 | 2          | NOUN            | Leben
+possible             | 2          | ADJ             | möglich
+open                 | 2          | VERB            | öffnen
+up                   | 2          | ADP             | nach oben
+or                   | 2          | CCONJ           | oder
+from                 | 2          | ADP             | von
+this                 | 2          | PRON            | diese
+face                 | 2          | NOUN            | Gesicht
+do                   | 2          | AUX             | tun
+for                  | 2          | SCONJ           | für
+sense                | 1          | NOUN            | Sinn
+solidarity           | 1          | NOUN            | Solidarität
+own                  | 1          | ADJ             | eigene
+psychic              | 1          | ADJ             | psychisch
+energy               | 1          | NOUN            | Energie
+share                | 1          | VERB            | teilen
+redouble             | 1          | VERB            | zum Verdoppeln
+which                | 1          | PRON            | bei der
+about                | 1          | ADP             | über
+most                 | 1          | ADV             | die meisten
+satisfying           | 1          | ADJ             | befriedigend
+offer                | 1          | VERB            | bieten
+say                  | 1          | VERB            | sagen
+ourselves            | 1          | PRON            | wir selbst
+then                 | 1          | ADV             | dann
+everything           | 1          | PRON            | alles
+phase                | 1          | NOUN            | Phase
+history              | 1          | NOUN            | Geschichte
+awareness            | 1          | NOUN            | Sensibilisierung
+people               | 1          | NOUN            | Menschen
+read                 | 1          | VERB            | lesen
+Dante                | 1          | PROPN           | Dante
+hear                 | 1          | VERB            | hören
+Bach                 | 1          | PROPN           | Bach
+prelude              | 1          | NOUN            | Vorspiel
+fugue                | 1          | NOUN            | Fuge
+learn                | 1          | VERB            | Lernen
+Hamlet               | 1          | PROPN           | Hülsengemüse
+King                 | 1          | PROPN           | König
+complexity           | 1          | NOUN            | Komplexität
+contradiction        | 1          | NOUN            | Widerspruch
+nature               | 1          | NOUN            | Art
+could                | 1          | AUX             | könnte
+spell                | 1          | VERB            | buchstabieren
+out                  | 1          | ADP             | aus
+on                   | 1          | ADP             | am
+stage                | 1          | NOUN            | Stufe
+so                   | 1          | ADV             | und
+great                | 1          | ADJ             | groß
+exasperation         | 1          | NOUN            | Verärgerung
+come                 | 1          | VERB            | kommen
+not                  | 1          | PART            | nicht
+anything             | 1          | PRON            | irgendetwas
+star                 | 1          | VERB            | zum Stern
+down                 | 1          | ADP             | unten
+by                   | 1          | ADP             | von
+something            | 1          | PRON            | etwas
+like                 | 1          | VERB            | mögen
+understand           | 1          | VERB            | verstehen
+can                  | 1          | AUX             | kann
+believe              | 1          | VERB            | glauben
+feel                 | 1          | VERB            | fühlen
+personally           | 1          | ADV             | persönlich
+affront              | 1          | VERB            | nach vorn
+identity             | 1          | NOUN            | Identität
+reasonably           | 1          | ADV             | vernünftigerweise
+alert                | 1          | ADJ             | aufmerksam
+responsive           | 1          | ADJ             | responsiv
+being                | 1          | NOUN            | Wesen
+call                 | 1          | VERB            | anzurufen
+into                 | 1          | ADP             | in die
+question             | 1          | NOUN            | Frage
+ought                | 1          | AUX             | [- Ja. - Nein, nein, ...]
+good                 | 1          | ADJ             | gut
+more                 | 1          | ADJ             | mehr
+than                 | 1          | ADP             | als
+an                   | 1          | DET             | und
+important            | 1          | ADJ             | wichtig
+part                 | 1          | NOUN            | Teil
+withhold             | 1          | VERB            | Zurückhalten
+any                  | 1          | DET             | keine
+one                  | 1          | NUM             | eins
+certain              | 1          | ADJ             | sicher
+world                | 1          | NOUN            | Welt
+there                | 1          | ADV             | dort
+help                 | 1          | VERB            | helfen
+live                 | 1          | VERB            | leben
+no                   | 1          | DET             | Nein
+other                | 1          | ADJ             | andere
+reason               | 1          | NOUN            | Grund

@@ -1,0 +1,101 @@
+--- РЕЗУЛЬТАТ ПЕРЕВОДА ---
+
+ИСХОДНЫЙ ТЕКСТ (АНГЛИЙСКИЙ):
+The ALS2 gene provides instructions for making a protein called alsin. Alsin is produced in a wide range of tissues, with highest amounts in the brain. This protein is particularly abundant in motor neurons, the specialized nerve cells in the brain and spinal cord that control the movement of muscles.
+
+Alsin turns on (activates) multiple proteins called GTPases that convert a molecule called GTP into another molecule called GDP. GTPases play important roles in cell division, the process by which cells mature to carry out specific functions (differentiation), and the self-destruction of cells (apoptosis). The GTPases play important roles in several cell processes. The GTPases that are activated by alsin are involved in the proper placement of the various proteins and fats that make up the cell membrane, the transport of molecules from the cell membrane to the interior of the cell (endocytosis), and the development of specialized structures called axons and dendrites that project from neurons and are essential for the transmission of nerve impulses.
+
+ПЕРЕВЕДЕННЫЙ ТЕКСТ (НЕМЕЦКИЙ):
+Das ALS2-Gen liefert Anweisungen für die Herstellung eines Proteins namens Alsin. Alsin wird in einer Vielzahl von Geweben produziert, mit den höchsten Mengen im Gehirn. Dieses Protein ist besonders reichlich in motorischen Neuronen, die spezialisierten Nervenzellen im Gehirn und Rückenmark, die die Bewegung der Muskeln steuern. Alsin schaltet mehrere Proteine namens GTPases ein, die ein Molekül namens GTP in ein anderes Molekül namens GDP umwandeln. GTPases spielen wichtige Rollen in der Zellteilung, den Prozess, durch den Zellen reifen, um bestimmte Funktionen zu erfüllen (Unterschied), und die Selbstzerstörung von Zellen (Apoptose). Die GTPases spielen wichtige Rollen in mehreren Zellprozessen. Die GTPases, die durch Alsin aktiviert werden, sind an der richtigen Platzierung der verschiedenen Proteine und Fette beteiligt, die die Zellmembran bilden, den Transport von Molekülen aus der Zellmembran in das Innere der Zelle (Endozytose), und die Entwicklung von spezialisierten Strukturen namens Axonen und Dendriten, die aus Neuronen projizieren und sind wichtig für die Übertragung von Nervenimpulsen.
+
+--- ЧАСТОТНЫЙ СПИСОК СЛОВ ---
+
+Слово                | Частота    | Часть речи      | Перевод
+----------------------------------------------------------------------
+the                  | 18         | DET             | die
+of                   | 8          | ADP             | von
+cell                 | 8          | NOUN            | Zelle
+in                   | 7          | ADP             | in der
+and                  | 6          | CCONJ           | und
+call                 | 5          | VERB            | um anzurufen
+be                   | 5          | AUX             | werden
+that                 | 5          | PRON            | das
+protein              | 4          | NOUN            | Protein
+a                    | 3          | DET             | a
+GTPases              | 3          | PROPN           | GTPases
+molecule             | 3          | NOUN            | Molekül
+for                  | 2          | ADP             | für
+make                 | 2          | VERB            | machen
+alsin                | 2          | PROPN           | Alsin
+Alsin                | 2          | PROPN           | Alsin
+brain                | 2          | NOUN            | Gehirn
+neuron               | 2          | NOUN            | Neuron
+specialized          | 2          | ADJ             | spezialisiert
+nerve                | 2          | NOUN            | Nerv
+play                 | 2          | VERB            | spielen
+important            | 2          | ADJ             | wichtig
+role                 | 2          | NOUN            | Rolle
+process              | 2          | NOUN            | Verfahren
+by                   | 2          | ADP             | von
+to                   | 2          | PART            | zu
+membrane             | 2          | NOUN            | Membran
+from                 | 2          | ADP             | von
+gene                 | 1          | NOUN            | Gen
+provide              | 1          | VERB            | zur Verfügung zu stellen
+instruction          | 1          | NOUN            | Anweisung
+produce              | 1          | VERB            | zur Erzeugung
+wide                 | 1          | ADJ             | breit
+range                | 1          | NOUN            | Bereich
+tissue               | 1          | NOUN            | Gewebe
+with                 | 1          | ADP             | mit
+high                 | 1          | ADJ             | hoch
+amount               | 1          | NOUN            | Betrag
+this                 | 1          | DET             | diese
+particularly         | 1          | ADV             | insbesondere
+abundant             | 1          | ADJ             | häufig
+motor                | 1          | NOUN            | Motor
+spinal               | 1          | ADJ             | spinale
+cord                 | 1          | NOUN            | Kordel
+control              | 1          | VERB            | zur Kontrolle
+movement             | 1          | NOUN            | Bewegung
+muscle               | 1          | NOUN            | Muskel
+turn                 | 1          | VERB            | Umdrehen
+on                   | 1          | ADP             | am
+activates            | 1          | PROPN           | aktiviert
+multiple             | 1          | ADJ             | multiple
+convert              | 1          | VERB            | umzuwandeln
+GTP                  | 1          | PROPN           | GTP
+into                 | 1          | ADP             | in die
+another              | 1          | DET             | eine andere
+GDP                  | 1          | PROPN           | BIP
+division             | 1          | NOUN            | Abteilung
+which                | 1          | PRON            | bei der
+mature               | 1          | VERB            | zur Reife
+carry                | 1          | VERB            | tragen
+out                  | 1          | ADP             | aus
+specific             | 1          | ADJ             | spezifisch
+function             | 1          | NOUN            | Funktion
+differentiation      | 1          | NOUN            | Differenzierung
+self                 | 1          | NOUN            | Selbst
+destruction          | 1          | NOUN            | Zerstörung
+apoptosis            | 1          | NOUN            | Apoptose
+several              | 1          | ADJ             | mehrere
+gtpase               | 1          | NOUN            | gtpase
+activate             | 1          | VERB            | aktivieren
+involve              | 1          | VERB            | Beteiligung
+proper               | 1          | ADJ             | richtig
+placement            | 1          | NOUN            | Platzierung
+various              | 1          | ADJ             | unterschiedlich
+fat                  | 1          | NOUN            | Fett
+up                   | 1          | ADP             | nach oben
+transport            | 1          | NOUN            | Transport
+interior             | 1          | NOUN            | Innere
+endocytosis          | 1          | NOUN            | Endozytose
+development          | 1          | NOUN            | Entwicklung
+structure            | 1          | NOUN            | Struktur
+axon                 | 1          | NOUN            | Axon
+dendrite             | 1          | NOUN            | Dendrit
+project              | 1          | NOUN            | Projekt
+essential            | 1          | ADJ             | wichtig
+transmission         | 1          | NOUN            | Übermittlung
+impulse              | 1          | NOUN            | Impuls
